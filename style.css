@@ -110,15 +110,16 @@ header h1{
         left: 0;
       }
 
-      #BackToHome p{
+      #BackToHomepage p{
         font-size: 14px;
       }
 
-      #BackToHome{
+      #BackToHomepage{
         position: absolute;
+        margin-top: -343px;
         width: 216px;
         height: 68px;
-        left: 24px;
+        left: 0px;
         top: 726px;
       }
 
