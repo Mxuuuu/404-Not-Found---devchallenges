@@ -8,13 +8,9 @@
 
 <div align="center">
   <h3>
-    <a href="XYZ">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="XYZ">
-      Solution
-    </a>
+    <a href="https://404-not-found-mxu.netlify.app">
+      Website
+     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
