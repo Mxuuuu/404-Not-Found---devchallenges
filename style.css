@@ -74,18 +74,6 @@ header h1{
     border: none;
 }
 
-footer{
-    height: 37.25vw;
-    font-family: 'Montserrat';
-    font-weight: 500;
-    font-size: 0.74vw;
-    color: #BDBDBD;
-    display: flex;
-    flex-wrap: nowrap;
-    flex-direction: row;
-    align-items: flex-end;
-}
-
 @media (max-width: 768px) {
     body {
         width: 100%;
@@ -132,10 +120,6 @@ footer{
         height: 68px;
         left: 24px;
         top: 726px;
-      }
-
-      footer{
-        opacity: 0;
       }
 
     }
